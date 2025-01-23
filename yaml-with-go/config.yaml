@@ -1,0 +1,9 @@
+developers:
+  - ldap: "user1"
+    github: "user1"
+  - ldap: "user2"
+    github: "github_user2"
+repository_team: "example-repo Developers"
+additional_github_teams:
+  - name: "core_team"
+    role: "admin"
